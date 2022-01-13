@@ -16,4 +16,6 @@ git status
 
 git log
 
+git push
+
 ![image-20220113155922027](readme.assets/image-20220113155922027.png)
