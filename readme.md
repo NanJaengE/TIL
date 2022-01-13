@@ -4,8 +4,7 @@
 
 1. [CLI](./startcamp/CLI.md) 사용하기
 2. [마크다운](startcamp/마크다운.md) 사용하기
-
-
+2.  [git기초](startcamp/git.md)
 
 git init
 

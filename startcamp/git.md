@@ -18,7 +18,7 @@
 
 #### 분산 버전 관리
 
-
+![GIT](git.assets/GIT.png)
 
 ### 2. Github를 이용한 포트폴리오
 
