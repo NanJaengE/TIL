@@ -18,4 +18,6 @@ git log
 
 git push
 
+git pull
+
 ![image-20220113155922027](readme.assets/image-20220113155922027.png)
